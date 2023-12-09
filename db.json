@@ -4,22 +4,19 @@
       "id": 1,
       "numero": "111111111",
       "dataAulaTeorica": "30-10-2023",
-      "horarioAulaTeorica": "09:00",
-      "instrutor": 1
+      "horarioAulaTeorica": "09:00"
     },
     {
       "id": 2,
       "numero": "222222222",
       "dataAulaTeorica": "30-10-2023",
-      "horarioAulaTeorica": "10:30",
-      "instrutor": 2
+      "horarioAulaTeorica": "10:30"
     },
     {
       "id": 3,
       "numero": "333333333",
       "dataAulaTeorica": "31-10-2023",
-      "horarioAulaTeorica": "14:15",
-      "instrutor": 3
+      "horarioAulaTeorica": "14:15"
     }
   ],
   "simulados": [
