@@ -1,0 +1,88 @@
+{
+  "aulasTeoricas": [
+    {
+      "id": 1,
+      "numero": "111111111",
+      "dataAulaTeorica": "30-10-2023",
+      "horarioAulaTeorica": "09:00",
+      "instrutor": 1
+    },
+    {
+      "id": 2,
+      "numero": "222222222",
+      "dataAulaTeorica": "30-10-2023",
+      "horarioAulaTeorica": "10:30",
+      "instrutor": 2
+    },
+    {
+      "id": 3,
+      "numero": "333333333",
+      "dataAulaTeorica": "31-10-2023",
+      "horarioAulaTeorica": "14:15",
+      "instrutor": 3
+    }
+  ],
+  "simulados": [
+    {
+      "id": 1,
+      "dataSimulado": "11-11-2011",
+      "horarioSimulado": "11:11"
+    },
+    {
+      "id": 2,
+      "dataSimulado": "22-12-2022",
+      "horarioSimulado": "22:22"
+    },
+    {
+      "id": 3,
+      "dataSimulado": "30-03-2023",
+      "horarioSimulado": "13:33"
+    }
+  ],
+  "examesTeoricos": [
+    {
+      "id": 1,
+      "dataExameTeorico": "01-11-2023",
+      "horarioExameTeorico": "09:00",
+      "localExameTeorico": 1
+    },
+    {
+      "id": 2,
+      "dataExameTeorico": "02-11-2023",
+      "horarioExameTeorico": "10:30",
+      "localExameTeorico": 2
+    },
+    {
+      "id": 3,
+      "dataExameTeorico": "03-11-2023",
+      "horarioExameTeorico": "14:15",
+      "localExameTeorico": 3
+    }
+  ],
+  "aulasPraticas": [
+    {
+      "id": 1,
+      "dataAulaPratica": "10-11-2023",
+      "horarioAulaPratica": "09:00",
+      "categoria": 1,
+      "instrutor": 1,
+      "veiculo": 1
+    },
+    {
+      "id": 2,
+      "dataAulaPratica": "11-11-2023",
+      "horarioAulaPratica": "10:30",
+      "categoria": 2,
+      "instrutor": 2,
+      "veiculo": 2
+    },
+    {
+      "id": 3,
+      "dataAulaPratica": "12-11-2023",
+      "horarioAulaPratica": "14:15",
+      "categoria": 3,
+      "instrutor": 3,
+      "veiculo": 3
+    }
+  ]
+}
